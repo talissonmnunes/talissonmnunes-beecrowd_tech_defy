@@ -13,5 +13,5 @@ This project is a practical technical test using the website https://front.serve
 - After Cypress open, you will can choise what kind of tests you want to execute manually.
 
 ### Execute cypress headless
-- Execute npm cy:headless to run the project headless.
+- Execute npm run cy:headless to run the project headless.
 - After Cypress execute a report will be generated to be evaluated.
